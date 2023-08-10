@@ -6,7 +6,7 @@ A simple falling squares game of which goal is to kill time by clicking on squar
 2. Prepare compiler.
 3. Start the program.
 
-## How to play##
+## How to play
 1. Start the program.
 2. Select difficulty (1-4).
 3. Then a window will be displayed where the squres will start falling.
